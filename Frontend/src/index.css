@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+@import "tailwindcss";
+
+@theme{
+      --color-textColor: #ebe7e6;
+      --color-background: #141d14;
+      --color-primary: #c3b9b3;
+      --color-secondary: #475c45;
+      --color-accent: #82889c;
+      --font-sora: "Sora", serif;
+}
+
+main{
+      background: url("/grain.png");
+}
